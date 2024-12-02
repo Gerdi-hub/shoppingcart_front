@@ -2,6 +2,7 @@
 
 
   <div>
+
     <CartNavbar />
     <h1 class="text-center mb-4 text-primary">Shopping Cart</h1>
 
